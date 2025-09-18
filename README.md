@@ -7,11 +7,12 @@ Currently, I'm working at **Veltiston.AI**, exploring ways to build intelligent 
 
 - 🎓 Graduated from **Evaggeliki Model High School of Smyrna** – Grade: **19.6/20**
 - 🎓 Integrated Master in **Electrical and Computer Engineering**  
-  National Technical University of Athens (NTUA) – Grade: **8.79/10**
+  National Technical University of Athens (NTUA) – Grade: **8.76/10**
 
 ## 🔎 Publications
 
-- 📄 [**PAKTON**: A Multi-Agent Framework for Question Answering in Long Legal Agreements](https://arxiv.org/abs/2506.00608)  
+- 📄 [**PAKTON**: A Multi-Agent Framework for Question Answering in Long Legal Agreements](https://arxiv.org/abs/2506.00608)  <br> 
+  Accepted for **oral** presentation in the **Main Conference of EMNLP** 2025  <br> 
   🔗 Source code: [petrosrapto/PAKTON](https://github.com/petrosrapto/PAKTON)
 
 ## 🚀 Stats
